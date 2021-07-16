@@ -8,4 +8,5 @@
 
 **파일을 1개 혹은 3개 이상 여는 경우**
 
-![image](https://user-images.githubusercontent.com/55826334/125969620-2b8e4a9e-99ae-483c-8d1e-807548d6abfc.png)
+![image](https://user-images.githubusercontent.com/55826334/125972346-0c7c8b77-4047-4af6-b04a-cf55fad4c707.png)
+
